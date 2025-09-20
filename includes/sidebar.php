@@ -161,19 +161,19 @@
         <i class="fa-solid fa-chevron-right ml-auto"></i>
       </div>
       <div class="dropdown-menu">
-        <a href="../PHP/php_basics.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
+        <a href="../php/php_basics.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
           <i class="fa-solid fa-play"></i> PHP Basics
         </a>
-        <a href="../PHP/php_oop.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
+        <a href="../php/php_oop.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
           <i class="fa-solid fa-cubes"></i> OOP
         </a>
-        <a href="../PHP/php_forms.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
+        <a href="../php/php_forms.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
           <i class="fa-solid fa-pen-to-square"></i> Forms
         </a>
-        <a href="../PHP/php_sessions.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
+        <a href="../php/php_sessions.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
           <i class="fa-solid fa-user-lock"></i> Sessions
         </a>
-        <a href="../PHP/php_mysql.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
+        <a href="../php/php_mysql.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
           <i class="fa-solid fa-database"></i> PHP + MySQL
         </a>
       </div>
