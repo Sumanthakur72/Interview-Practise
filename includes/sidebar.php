@@ -117,7 +117,7 @@
         <a href="../Excel/intermediate.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
           <i class="fa-solid fa-layer-group"></i> Intermediate
         </a>
-        <a href="../Excel/advance.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
+        <a href="../Excel/Advance.php" class="flex items-center gap-3 px-4 py-2 hover:bg-gray-700">
           <i class="fa-solid fa-chess-queen"></i> Advanced
         </a>
       </div>
